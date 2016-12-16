@@ -1,2 +1,2 @@
 # Campanha
-Sistema para criar campanhas utilisando padrões de projeto Prototype.
+Sistema para criar campanhas utilizando padrões de projeto Prototype.
